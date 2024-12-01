@@ -1,4 +1,4 @@
-/* <h1 align="center">Hi 👋, I'm Dwi Lestari Amelia</h1>
+<h1 align="center">Hi 👋, I'm Dwi Lestari Amelia</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
 - 👀 I’m all about programming stuff.
