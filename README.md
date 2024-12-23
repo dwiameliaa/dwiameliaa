@@ -8,7 +8,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: **I really love cats and coding**
 
-Hey there! Here's my Linktree—your portal to all my cool links! https://linktree-dwi.vercel.app/ 
+**Here's my Linktree**—your portal to all my cool links^~^ https://linktree-dwi.vercel.app/ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
